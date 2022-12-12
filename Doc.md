@@ -54,4 +54,12 @@ List of KeyWords:
     45     #space
 
 
+List of Data Types and Operation related to them:
+
+Data Types:
+    string_lit
+    char_lit
+    bool
+    real_num
+    nat_num
 
